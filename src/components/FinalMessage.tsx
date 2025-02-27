@@ -28,19 +28,22 @@ export const FinalMessage: React.FC = () => {
         </h1>
 
         { <><p className="text-lg text-gray-700 leading-relaxed mb-6">
-          Florina(my bae), I love so many things about you, from your megawatt smile to your sharp wit to how you always look after others. I hope you know how amazing you are, not just on your birthday but every day.
+          To my favorite person in this world,
+          You, whose smile makes me smile, light up the room with your presence. You, who have always stayed kind and strong no matter what you’ve gone through. You, who are not afraid to be yourself. You, who put others before yourself. You, whose personality is one of a kind. A real friend is one who walks in when the rest of the world walks out.
+
         </p><p className="text-lg text-gray-700 leading-relaxed mb-6">
-            You’re my chaos and my calm, my sweetest distraction and my fiercest addiction. The way you light up a room with your energy, the way you make my heart race with just a glance—every part of you leaves me breathless. I’m so lucky to have you, this feral, gorgeous, irresistible being who’s made my life so much better just by being in it.
+        On this special day, I’d like to say that I’ve never been more grateful in my life to have you. On this day, you deserve to be the happiest, the most excited, and the prettiest—you’ve more than earned it.
+
           </p></> 
         }
 
         <p className="text-lg text-gray-700 leading-relaxed font-semibold text-center">
-          Words Won't Be Enough. So, I'm Just Saying "I Love You".
+          Words won’t be enough, so I hope you know how much you’re loved—today and always.
         </p>
 
         <div className="text-center mt-8 text-2xl">
           With Love,
-          Your KuchuPuchu Always❤️
+          Yours Truly Raheem. 
         </div>
       </motion.div>
     </motion.div>

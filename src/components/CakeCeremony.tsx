@@ -47,7 +47,7 @@ export const CakeCeremony: React.FC<CakeCeremonyProps> = ({ onComplete }) => {
         {!isCut ? (
           <span>✨ Drag down to cut the cake! ✨</span>
         ) : (
-          <span>🎉 Happy Birthday Madam Jiiii! 🎉</span>
+          <span>🎉 Happy Birthday Alafiaaaa! 🎉</span>
         )}
       </div>
 
